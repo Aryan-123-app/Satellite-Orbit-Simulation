@@ -74,7 +74,7 @@ satellite-orbit-simulator/
 └── README.md                # Project documentation
 ```
 # 🎥 Example Preview
-(Add a screenshot or gif link here, e.g.)
+![Dashboard Preview](Figure1.png)
 
 # 🔧 Customization
 ✅ Change simulation parameters in main.py:
