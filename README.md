@@ -109,7 +109,7 @@ Font: DS-Digital
 # 📬 Contact
 **📧 Email:** aryanpatade8@gmail.com
 
-**🌐 Website / Profile:** [your-website-or-profile-link]
+**🌐 Website / Profile:** https://github.com/Aryan-123-app
 
 # ⚡ Future Ideas
 🚀 Add multiple satellites
